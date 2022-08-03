@@ -1,0 +1,119 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+:root{
+    --cor-base-texto:#333333;
+    --cor-vermelho:#B44C4C;
+    --cor-vermelho-claro:rgb(83, 2, 2);
+    --cor-vermelho-escuro:rgb(252, 88, 88);
+    --cor-cinza-fundo: #9b9696;
+    --cor-fundo-telefone: #cc6326;
+    --cor-fundo-email:#e02020;
+}
+*{
+    box-sizing: border-box;
+}
+h1{ 
+    font-family: 'Noto Sans JP', sans-serif;
+ }
+ #titulo{
+    background-color:var(--cor-cinza-fundo);
+    border: solid 2px var(--cor-cinza-fundo);
+    border-top:solid 1px var(--cor-vermelho) ;
+    text-align: center;
+    padding: 5px 0;
+ }
+
+ #tamanho{
+line-height: 20px;
+ }
+
+.nomeEmpresa{
+    text-transform: uppercase;
+    color: var(--cor-vermelho);
+    font-family: 'Oswald', sans-serif;
+ font-weight: bold;
+ 
+ align-items:flex-end ;
+}
+#div{
+    align-items:flex-end ;
+    flex-direction: column;
+}
+#Nome{
+    color: var(--cor-base-texto);
+    text-transform: uppercase;
+    align-content: center;
+    justify-content: center;
+    height: 10px;
+    flex-direction: column;
+}
+.flex{
+  display: flex;
+    }
+#Direita{
+    align-items: right;
+    justify-content: right;
+}
+#logo{
+    align-items: right;
+}
+.data{
+    color: var(--cor-base-texto);
+}
+.cargo{
+    color: var(--cor-vermelho-claro);
+    padding: 0px;
+}
+#Foto{
+  
+    height: 400px;
+    overflow: hidden;
+    width: 100;
+}
+.Contato{
+    background-color:var(--cor-vermelho-escuro);
+    border: solid 2px var(--cor-vermelho-claro);
+}
+#container-email{
+background-color: var(--cor-vermelho-claro);
+}
+#container-telefone{
+    background-color: orangered;
+}
+#container-localizacao{
+    background-color: darkorange;
+}
+#link-endereço{
+    background-color: orange;
+}
+#link-email{
+    background-color: var(--cor-fundo-email);
+}
+#link-contato{
+    background-color:var(--cor-fundo-telefone);
+}
+.linha a{
+ align-self: center;  
+color: white;
+text-decoration: none;
+padding-left: 1rem;
+flex: 30;
+height: 3rem ;
+line-height: 3rem;
+}
+.linha{
+   
+    display: flex;
+    width: 100%;
+}
+.imagens{
+    display: flex;
+    align-items: center;
+    flex: 2;
+    justify-content: center;
+}
+.imagens img{
+    height: 1.4rem;
+
+}

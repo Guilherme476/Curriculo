@@ -1,0 +1,8 @@
+[1207/232022.951:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1207/232022.972:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\home\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\71f3bed0-13f1-4516-8c04-0dbd1ee4c47b: O sistema não pode encontrar o caminho especificado. (0x3)
+[1207/232022.980:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\home\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\d6b02ac3-228b-42cc-ba87-6aab97e4f57e: O sistema não pode encontrar o caminho especificado. (0x3)
+[1207/232022.986:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\home\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\8969ab35-e153-4351-a642-cbc30896605f: O sistema não pode encontrar o caminho especificado. (0x3)
+[1207/232022.992:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\home\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\73757b94-52b5-45ab-8e32-bec9ed31deb5: O sistema não pode encontrar o caminho especificado. (0x3)
+[1207/232022.998:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\home\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\d48bf3fb-f112-4b87-8e73-1447bf405980: O sistema não pode encontrar o caminho especificado. (0x3)
+[1207/232023.004:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\home\AppData\Local\AVAST Software\Browser\User Data\Crashpad\attachments\dc546e14-bda0-43c7-aa5e-10aea370824e: O sistema não pode encontrar o caminho especificado. (0x3)
+[1208/013612.192:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
